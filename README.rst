@@ -51,7 +51,7 @@ Installation
 
 **Django markdown** should be installed using pip: ::
 
-    pip install django-markdown
+    pip install -e git+https://northscope@github.com/northscope/django-pagedown.git#egg=django-pagedown
 
 
 Setup
